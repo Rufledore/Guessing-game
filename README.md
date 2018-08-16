@@ -1,3 +1,3 @@
-Peer-graded Assignment: Bash, Make, Git and GitHub
-чт авг 16 18:44:03 EEST 2018
+Peer-graded Assignment: Bash, Make, Git and GitHub  
+16/08/2018	19:03:22
 32
